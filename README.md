@@ -55,6 +55,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Valagit12/Valagit12/output/snake.svg" alt="Snake animation" />
-
 ###
