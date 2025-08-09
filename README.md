@@ -46,15 +46,16 @@
 
 <div align="center">
   <a href="https://valagit12.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Google%20Chrome&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FFCC00?style=for-the-badge&logo=GoogleChrome&logoColor=black" height="35" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/valareza-arezehgar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:valareza.arezehgar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 </div>
+
 
 ###
 
