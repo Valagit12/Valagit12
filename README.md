@@ -44,6 +44,8 @@
 
 ###
 
+<h2 align="center">📬 Connect with Me</h2>
+
 <div align="center">
   <a href="https://valagit12.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-FFCC00?style=for-the-badge&logo=GoogleChrome&logoColor=black" height="35" alt="Portfolio" />
@@ -55,7 +57,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 </div>
-
 
 ###
 
