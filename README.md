@@ -66,7 +66,7 @@
 
 ---
 
-### Employer?
+### Resume
 
 > <a href="https://valagit12.github.io/portfolio/img/resume.pdf" target="_blank">View my resume</a>
 
