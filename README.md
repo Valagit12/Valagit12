@@ -1,61 +1,78 @@
-<h1 align="center">Hi 👋 I'm Vala!</h1>
 
-<p align="center">
-  Software developer who likes building reliable systems, tools, and UIs.
-</p>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB2FF,50:007CFF,100:0040A8&height=140&section=header"
+  alt="header"
+/>
 
----
 
-## 💻 Languages
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin: 0 10px;" />
-</div>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1D4ED8&width=500&lines=Hello%2C+I'm+Vala;Software+Developer"
+    alt="Software Developer"
+  />
+</a>
 
 ---
 
-## 🌐 Web & App
+### Main skills
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" style="margin: 0 10px;" />
-</div>
+#### Languages
 
----
+[![Languages](https://skillicons.dev/icons?i=java,python,ts,js,cpp,cs,dart&perline=7)](https://skillicons.dev)
 
-## 📊 Data & Tools
+#### Frontend & Mobile
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="Unix" style="margin: 0 10px;" />
-</div>
+[![Frontend](https://skillicons.dev/icons?i=react,angular,html,css,flutter&perline=6)](https://skillicons.dev)
+
+#### Backend & Data
+
+[![Backend & Data](https://skillicons.dev/icons?i=spring,nodejs,postgres&perline=6)](https://skillicons.dev)
+
+#### Tools
+
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,git,linux,&perline=6)](https://skillicons.dev)
 
 ---
 
-<h2 align="center">📬 Connect with Me</h2>
+### Thesis
 
-<p align="center">
+> [Undergraduate thesis in AI planning and heuristic search](https://valagit12.github.io/portfolio/img/analysis.pdf).
+
+---
+
+### Connect with me!
+
+<div>
   <a href="https://valagit12.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-FFCC00?style=for-the-badge&logo=GoogleChrome&logoColor=black" height="35" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=GoogleChrome&logoColor=white"
+      alt="Portfolio"
+    >
   </a>
   <a href="https://www.linkedin.com/in/valareza-arezehgar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
   <a href="mailto:valareza.arezehgar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    >
   </a>
-</p>
+</div>
+
+---
+
+### Employer?
+
+> <a href="https://valagit12.github.io/portfolio/img/resume.pdf" target="_blank">View my resume</a>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0040A8,50:007CFF,100:4DB2FF&height=140&section=footer"
+  alt="footer"
+/>
+
