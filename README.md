@@ -27,7 +27,7 @@
 
 #### Backend & Data
 
-[![Backend & Data](https://skillicons.dev/icons?i=spring,nodejs,postgres&perline=6)](https://skillicons.dev)
+[![Backend & Data](https://skillicons.dev/icons?i=express,spring,nodejs,postgres&perline=6)](https://skillicons.dev)
 
 #### Tools
 
